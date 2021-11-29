@@ -18,8 +18,8 @@ in the cloud.
 * The Google Colab user interface is different from Jupyter Notebook but straight forward to use.
 
 To start this practical using Google Colab:
- * [workbook_J_1.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-B/blob/master/workbook_B.ipynb)
+ * [workbook_J_numpy.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinformatics/prac-J/blob/main/workbook_J_numpy.ipynb)
    * [workbook_J_2.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-B/blob/master/workbook_B.ipynb)
    * [workbook_J_3.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
