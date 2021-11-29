@@ -20,14 +20,14 @@ in the cloud.
 To start this practical using Google Colab:
  * [workbook_J_numpy.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
   ](https://colab.research.google.com/github/ARU-Bioinformatics/prac-J/blob/main/workbook_J_numpy.ipynb)
-   * [workbook_J_2.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-B/blob/master/workbook_B.ipynb)
-   * [workbook_J_3.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-B/blob/master/workbook_B.ipynb)
-   * [workbook_J_4.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-B/blob/master/workbook_B.ipynb)
+ * [workbook_J_matplotlib.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinformatics/prac-J/blob/main/workbook_J_matplotlib.ipynb)
+   * [workbook_J_scipy.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinformatics/prac-J/blob/main/workbook_J_scipy.ipynb)
+   * [workbook_J_pandas.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+  ](https://colab.research.google.com/github/ARU-Bioinformatics/prac-J/blob/main/workbook_J_pandas.ipynb)
 * [homework_J.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-  ](https://colab.research.google.com/github/ARU-Bioinf-IBDS/prac-B/blob/master/homework_B.ipynb)
+  ](https://colab.research.google.com/github/ARU-Bioinformatics/prac-J/blob/main/homework_J.ipynb)
 
 Then in your Colab Notebook or Jupyter Notebook:
 * open the four workbooks and work through them.
